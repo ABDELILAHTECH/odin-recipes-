@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: system-ui;
+    color: white;
+}
+body{
+    background-color: black;
+}
+h1,h2,h3{
+    color: rgb(191, 148, 231);
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(223, 108, 108);
+    padding: 10px ;
+    display: block;
+}
+p{
+    padding: 0 10px;
+}
+ul,ol{
+    padding-left: 50px;
+}

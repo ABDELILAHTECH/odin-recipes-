@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0%;
+    font-family: system-ui;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: white;
+    padding: 10px;
+}
+a{
+    color: rgb(246, 99, 99);
+    text-decoration: none;
+    padding: 10px;
+}
